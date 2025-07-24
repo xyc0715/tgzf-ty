@@ -580,7 +580,7 @@ class TGForwarder:
 
 
 if __name__ == '__main__':
-    channels_groups_monitor = ['yunpan189','txtyzy','tyysypzypd','yunpansall','tianyirigeng','cloudtianyi','tyypzhpd']
+    channels_groups_monitor = ['tianyifc','yunpan189','txtyzy','tyysypzypd','yunpansall','tianyirigeng','cloudtianyi','tyypzhpd']
     forward_to_channel = 'ddyun189'
     # 监控最近消息数
     limit = 100
